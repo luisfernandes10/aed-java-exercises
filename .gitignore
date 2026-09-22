@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+target/
+
+# Operating systems
+.DS_Store
+Thumbs.db

@@ -49,7 +49,7 @@ Technologies
 - Git and GitHub
 Running an exercise
 1. Clone the repository:
-   git clone https://github.com/USERNAME/aed-java-exercises.git
+   git clone https://github.com/luisfernandes10/aed-java-exercises.git
 2. Open the repository in IntelliJ IDEA or another Java IDE.
 3. Navigate to the relevant exercise directory.
 4. Compile and run the desired class from its src directory.

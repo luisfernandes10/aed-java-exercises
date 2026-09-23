@@ -1,28 +1,28 @@
-# Algorithms and Data Structures — Java Exercises
+# Algoritmos e Estruturas de Dados — Exercícios em Java
 
-This repository contains practical exercises developed for the Algorithms and Data Structures (AED) course at ISCTE.
+Este repositório reúne os exercícios práticos desenvolvidos para a unidade curricular de **Algoritmos e Estruturas de Dados (AED)**, no âmbito da licenciatura em Informática e Gestão de Empresas do ISCTE.
 
-The exercises are implemented in Java and cover fundamental data structures, sorting algorithms, symbol tables, hashing, and binary search trees.
+Os exercícios foram implementados em Java e abrangem estruturas de dados fundamentais, algoritmos de ordenação, tabelas de símbolos, tabelas de dispersão e árvores binárias de pesquisa.
 
-## Contents
+## Conteúdos
 
-| Exercise | Topic |
+| Exercício | Tema |
 |---|---|
-| `ex01-date` | Date abstraction and object-oriented programming fundamentals |
-| `ex02-union-find` | Union–Find data structure |
-| `ex03-resizing-queue` | Resizing queue of strings |
-| `ex04-generic-queue` | Generic queue implementation |
-| `ex05-linked-list` | Linked-list implementation |
-| `ex06-ordered-list` | Ordered-list implementation |
-| `ex07-improved-quicksort` | Improved QuickSort algorithm |
-| `ex08-heap-sort` | Heap sort and binary heaps |
-| `ex09-symbol-table` | Symbol-table implementation |
-| `ex10-linear-probing-hash-table` | Hash table with linear probing |
-| `extra-bst` | Binary search tree exercises |
+| `ex01-date` | Abstração de datas e fundamentos de programação orientada a objetos |
+| `ex02-union-find` | Estrutura de dados Union–Find |
+| `ex03-resizing-queue` | Fila redimensionável de strings |
+| `ex04-generic-queue` | Implementação de uma fila genérica |
+| `ex05-linked-list` | Implementação de uma lista ligada |
+| `ex06-ordered-list` | Implementação de uma lista ordenada |
+| `ex07-improved-quicksort` | Algoritmo QuickSort melhorado |
+| `ex08-heap-sort` | Heap sort e heaps binários |
+| `ex09-symbol-table` | Implementação de uma tabela de símbolos |
+| `ex10-linear-probing-hash-table` | Tabela de dispersão com sondagem linear |
+| `extra-bst` | Exercícios sobre árvores binárias de pesquisa |
 
-## Repository structure
+## Estrutura do repositório
 
-Each exercise is stored in its own directory, with the Java source code under `src/`:
+Cada exercício se encontra num diretório próprio, com o código-fonte Java dentro de `src/`:
 
 ```text
 aed-java-exercises/
@@ -50,30 +50,30 @@ aed-java-exercises/
     └── src/
 ```
 
-## Technologies
+## Tecnologias
 
 - Java
 - IntelliJ IDEA
-- Git and GitHub
+- Git e GitHub
 
-## Running an exercise
+## Executar um exercício
 
-1. Clone the repository:
+1. Clonar o repositório:
 
    ```bash
    git clone https://github.com/luisfernandes10/aed-java-exercises.git
    ```
 
-2. Open the repository in IntelliJ IDEA or another Java IDE.
-3. Navigate to the relevant exercise directory.
-4. Compile and run the desired class from its `src` directory.
+2. Abrir o repositório no IntelliJ IDEA ou noutro IDE compatível com Java.
+3. Aceder ao diretório do exercício pretendido.
+4. Compilar e executar a classe desejada a partir do respetivo diretório `src`.
 
-## Notes
+## Notas
 
-- This repository is intended for academic study and to document my progress in algorithms and data structures.
-- Only source files required to understand and run the exercises are included.
-- Generated files and IDE-specific configuration files are excluded from version control by the root `.gitignore`.
+- Este repositório destina-se ao estudo académico e ao registo da minha evolução em algoritmos e estruturas de dados.
+- Estão incluídos apenas os ficheiros necessários para compreender e executar os exercícios.
+- Os ficheiros gerados e as configurações específicas do IDE são excluídos do controlo de versões pelo `.gitignore` da raiz.
 
-## Author
+## Autor
 
-Luís Fernandes
+Luís Fernandes — ISCTE
